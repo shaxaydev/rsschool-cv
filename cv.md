@@ -59,7 +59,7 @@ export  default  Home;
 
 ## English
 
-A2
+B1
 
 ## Courses
 
